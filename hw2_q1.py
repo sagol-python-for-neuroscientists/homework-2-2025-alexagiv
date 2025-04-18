@@ -21,7 +21,8 @@ def english_to_morse(
     input_file: str = "lorem.txt",
     output_file: str = "lorem_morse.txt"
 ):
-    """Convert an input text file to an output Morse code file.
+    """
+    Convert an input text file to an output Morse code file.
 
     Notes
     -----
